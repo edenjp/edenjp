@@ -7,7 +7,7 @@
 <br/>
 
 My Name is Éden, but you can call me Tio!  
-I am working wit QA since 2012, with a small time as PHP Developer.  
+I am working with QA since 2012, with a small time as PHP Developer.  
 One thing you should know about me is: I love to learn!
 
 - 🔭 I’m currently working as QA at Wirecard Brazil.
