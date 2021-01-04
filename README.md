@@ -16,7 +16,7 @@ One thing you should know about me is: I love to learn!
 - 📫 How to reach me: just start with "HI".
 - 🎓 Graduated in Systems Analysis and Development in 2013
 - ❤️ In love with QA, Beer, Music and Bacon
-- 🌍 Laguages: Portuguese PT-BR and English
+- 🌍 Languages: Portuguese PT-BR and English
 
 ### Skills
 
