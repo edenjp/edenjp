@@ -10,8 +10,8 @@ My Name is Éden, but you can call me Tio!
 I am working with QA since 2012, with a small time as Developer(PHP, Javascript, Ruby).  
 One thing you should know about me is: I love to learn!
 
-- 🔭 I’m currently working as Senior QA at Wirecard Brazil.
-- 🌱 I’m currently learning a Jmeter, Java, JBehave, Cypress, Serenity etc.
+- 🔭 I’m currently working as Senior QA at XP Inc.
+- 🌱 I’m currently learning a Jmeter, .Net, Java, JBehave, Cypress, Serenity etc.
 - 💪🏽 I’m looking to collaborate on projects that represent a new challenger to me.
 - 📫 How to reach me: just start with "HI".
 - 🎓 Graduated in Systems Analysis and Development in 2013
